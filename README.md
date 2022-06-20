@@ -33,13 +33,13 @@ The code performance is measured by the running time of the code.  The challenge
 
 ​					2017 Refactored code																		2018 Refactored code
 
-![2017 original run time](Resources/Running_Time_2017.PNG)                 !2018 [original run time](Resources/Running_Time_2018.PNG)
+![2017 original run time](Resources/Running_Time_2017.PNG)        ![2018or iginal run time](Resources/Running_Time_2018.PNG)
 
 ​					2017 Original code																				2018 Original code
 
 
 
-#### Summary:
+### Summary:
 
 Refactoring is not making new functionalities, but rather to make the code more efficient by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.  The advantages of refactoring is that the code is more efficient.  The disadvantages of refactoring is that the person who is doing the refactoring must fully understand the  costumer requirements, data structures, and the code logics to have a balance between the efficiency and the maintainability.  Sometimes, it is not easy to meet all the requirements.
 
