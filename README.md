@@ -19,7 +19,7 @@ We will use VBA to loop through all the 12 stocks data in 2017 and 2018 to find 
 
 The stock performance in 2017 is much better than 2018, shown by the following tables.  11 out of 12 stocks have positive returns, including stocks DQ, ENPH, FSLR and SEDG have over 100% returns.  In 2018, only 2 out of 12 stocks have positive returns.
 
-![2017 Stock](D:\Data_Analysis_Visualization\Module-2\stock-analysis\stock-analysis\Resources\All_Stocks_2017.PNG)![2018 Stock](D:\Data_Analysis_Visualization\Module-2\stock-analysis\stock-analysis\Resources\All_Stocks_2018.PNG)    
+![2017 Stock](Resources/All_Stocks_2017.PNG)![2018 Stock](Resources/All_Stocks_2018.PNG)    
 
 
 
@@ -29,11 +29,11 @@ The code performance is measured by the running time of the code.  The challenge
 
 
 
-![](D:\Data_Analysis_Visualization\Module-2\stock-analysis\stock-analysis\Resources\VBA_Challenge_2017.PNG)                ![](D:\Data_Analysis_Visualization\Module-2\stock-analysis\stock-analysis\Resources\VBA_Challenge_2018.PNG)
+![2017 Run time](Resources/VBA_Challenge_2017.PNG)                ![2018 run time](Resources/VBA_Challenge_2018.PNG)
 
 ​					2017 Refactored code																		2018 Refactored code
 
-![](D:\Data_Analysis_Visualization\Module-2\stock-analysis\stock-analysis\Resources\Running_Time_2017.PNG)                 ![](D:\Data_Analysis_Visualization\Module-2\stock-analysis\stock-analysis\Resources\Running_Time_2018.PNG)
+![2017 original run time](Resources/Running_Time_2017.PNG)                 !2018 [original run time](Resources/Running_Time_2018.PNG)
 
 ​					2017 Original code																				2018 Original code
 
