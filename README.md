@@ -31,11 +31,11 @@ The code performance is measured by the running time of the code.  The challenge
 
 ![2017 Run time](Resources/VBA_Challenge_2017.PNG)                ![2018 run time](Resources/VBA_Challenge_2018.PNG)
 
-​					2017 Refactored code																		2018 Refactored code
+  				2017 Refactored code                                      2018 Refactored code
 
 ![2017 original run time](Resources/Running_Time_2017.PNG)        ![2018or iginal run time](Resources/Running_Time_2018.PNG)
 
-​					2017 Original code																				2018 Original code
+					2017 Original code                                        2018 Original code
 
 
 
